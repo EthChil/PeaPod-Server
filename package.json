@@ -1,0 +1,14 @@
+{
+  "name": "Peapod-Server",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Seneca",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "express": "^4.15.3",
+    "sqlite3": "^3.1.9"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
